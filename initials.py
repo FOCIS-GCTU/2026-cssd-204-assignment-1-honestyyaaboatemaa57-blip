@@ -1,4 +1,4 @@
-File: initials.py
+# File: initials.py
 # Description: Print out stylized large initials for Honesty Yaa Boatemaa.
 # Assignment Number: 1
 # Name: Honesty Yaa Boatemaa
