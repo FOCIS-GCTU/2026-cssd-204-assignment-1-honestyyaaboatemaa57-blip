@@ -10,8 +10,8 @@ File: initials.py
 # and I have not provided this code to any other student.
 
 def main():
-  pass #code goes here
-# Print the student's stylized large initials using only print() and strings.
+  
+    # Print the student's stylized large initials using only print() and strings.
     
     # Blank line before small initials [cite: 20]
     print()
