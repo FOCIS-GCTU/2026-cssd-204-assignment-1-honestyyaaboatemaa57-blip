@@ -35,10 +35,5 @@ def main():
     print("...HHHH....HHHH............YYYY............BBB.......BB.....")
     print("...HHHH....HHHH...**.......YYYY.......**...BBBBBBBBBBBB...**")
     print("...HHHH....HHHH...**.......YYYY.......**...BBBBBBBBBBB....**")
-
     print()
-
-
-
-
 main()
